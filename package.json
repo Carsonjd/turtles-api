@@ -1,0 +1,14 @@
+{
+  "name": "turtles-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "author": "jdc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
